@@ -7,5 +7,13 @@ Aunasasd
 Bai tap 123
 Bài 3 HTML
 Bai 4: GitHub
-Bài 5: HTML form
+<<<<<<< HEAD
+<<<<<<< HEAD
+Bai 5: Thi 
+
+Bai 6
+Bai 7
+Bai 8
+Bai 9
+BBB
 
