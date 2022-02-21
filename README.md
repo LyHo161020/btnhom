@@ -7,6 +7,6 @@ Bai 5: Thi
 Bai 6: Vinh 
 Bai 7: Lý
 Bai 8
-Bai 9
+Bai 9 GitHub thật dễ hiểu 
 
 
