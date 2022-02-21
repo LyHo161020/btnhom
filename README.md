@@ -4,8 +4,8 @@ bai 2 html
 Bài 3 HTML
 Bai 4: GitHub
 Bai 5: Thi 
-Bai 6
-Bai 7
+Bai 6: Vinh 
+Bai 7: Lý
 Bai 8
 Bai 9
 
